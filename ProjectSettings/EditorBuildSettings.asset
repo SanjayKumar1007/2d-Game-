@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Main.unity
+    guid: 1c5769b8dd23d7542971a48af4fe3ca2
+  - enabled: 1
+    path: Assets/Scene/Main Menu.unity
+    guid: bcad278e53453774f9345f5da99b531f
+  - enabled: 1
+    path: Assets/Scene/SunRise.unity
+    guid: a1f4fb9921e407142bf78957cf34d7ed
+  - enabled: 1
+    path: Assets/Scene/DarkPlatform.unity
+    guid: 08b3169f995c71341b5af82a6d19c345
+  m_configObjects: {}

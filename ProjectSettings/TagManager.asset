@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Restart
+  - Enemy
+  - Enepos
+  - Enepos2
+  - Portal
+  - MovingObj
+  - Arrow
+  - PlayerEnter
+  - BoxCollider
+  - SkullY
+  - SkullR
+  - SkullG
+  - SkullB
+  - Coins
+  - Blade
+  - ChainSpike
+  - Hammer
+  - Box_Deductor
+  - Treasure
+  - FxTemporaire
+  - UnderGround
+  - CheckPoint
+  - OpenDoor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Player
+  - GroundLayer
+  - Arrow
+  - ChainSpike
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG_Layer
+    uniqueID: 253577795
+    locked: 0
+  - name: Portals
+    uniqueID: 39541587
+    locked: 0
+  - name: Boss
+    uniqueID: 2302988951
+    locked: 0
+  - name: pots
+    uniqueID: 3307010477
+    locked: 0
+  - name: traps
+    uniqueID: 1731034885
+    locked: 0
+  - name: Platform
+    uniqueID: 323827221
+    locked: 0
+  - name: torch
+    uniqueID: 3949311111
+    locked: 0
+  - name: Props
+    uniqueID: 3501963265
+    locked: 0
+  - name: Player
+    uniqueID: 353369905
+    locked: 0
+  - name: Enemy
+    uniqueID: 934082691
+    locked: 0
+  - name: Pillar
+    uniqueID: 2655322273
+    locked: 0
+  - name: Arrow
+    uniqueID: 143909711
+    locked: 0
+  - name: Platform2
+    uniqueID: 240534423
+    locked: 0
+  - name: SkullDeduction
+    uniqueID: 3981337141
+    locked: 0
+  - name: Ui panel
+    uniqueID: 1163510403
+    locked: 0
